@@ -1,3 +1,2 @@
-title: Mi Blog Automático  
-description: Blog generado automáticamente con Jekyll.  
-theme: minima        # Tema por defecto (soporta posts automáticos)
+title: Mi Blog
+theme: minima
