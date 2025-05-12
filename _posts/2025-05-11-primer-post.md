@@ -1,6 +1,6 @@
 ---
 title: "Hola Mundo"
-date: 2024-05-20
+date: 2025-05-11
 ---
 
 viendo como hacer blog en youtube
