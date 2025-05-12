@@ -1,4 +1,7 @@
-# Mi Blog Simple  
+---
+layout: home
+---
 
-- [Post 1](post1.md)  
-- [Post 2](post2.md)  
+# ¡Bienvenido a mi blog!  
+
+Los posts más recientes aparecerán abajo automáticamente.  
