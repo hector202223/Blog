@@ -6,3 +6,5 @@ Recuerdo bien aquel día. El cielo estaba gris, y el suelo temblaba con cada pas
 
 Con la espada firme lo atacaba sin darle ni respiro. Con cada golpe lo fui derribando hasta que cayó, derrotado, con un estruendo que sacudió la tierra. Kraghor ya no volvería a alzarse. Me alejé sin mirar atrás. La batalla había terminado.
 
+![dragon](imagenes/dragon1.jpg)
+
