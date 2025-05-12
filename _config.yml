@@ -1,2 +1,3 @@
 title: Mi Blog
 theme: minima
+baseurl: ""  # Debe estar vacío si usas rutas absolutas
