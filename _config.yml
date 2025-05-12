@@ -1,3 +1,4 @@
 title: Mi Blog
 theme: minima
-baseurl: ""  # Debe estar vacío si usas rutas absolutas
+baseurl: "/blog"  # ← ¡Obligatorio porque tu repo se llama 'blog'!
+url: "https://hector202223.github.io"  # ← Tu dominio
