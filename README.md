@@ -1,3 +1,3 @@
 # blog
 
-## [index](index.md)
+## [index](https://hector202223.github.io/blog/)
