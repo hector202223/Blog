@@ -1,7 +1,9 @@
 ---
-title: "Hola Mundo"
+title: "Hola Mundo 2"
 date: 2025-05-11
-image: /imagenes/gato1.jpg
+image: /imagenes/gato1.jpg  ← Ruta absoluta desde raíz
 ---
 
-viendo como hacer blog en youtube
+## Contenido del post
+
+![Foto de mi gato]({{ page.image }})
